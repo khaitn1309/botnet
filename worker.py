@@ -15,7 +15,7 @@ monkey.patch_all()
 import urllib2
 
 from gevent import socket
-from gevent.dns import DNSError
+#from gevent.dns import DNSError
 from gevent.event import Event
 from gevent.queue import Queue
 
