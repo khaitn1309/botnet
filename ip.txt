@@ -1,1 +1,0 @@
-POST,http://206.189.147.204/2018/06/01/ddos-me/:80,body,Accept: application/xml,Content-type: Secret
