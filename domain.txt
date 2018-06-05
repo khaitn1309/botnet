@@ -1,1 +1,0 @@
-POST,http://atmmtncuit.tk/2018/06/01/ddos-me/:80,body,Accept: application/xml,Content-type: Secret
